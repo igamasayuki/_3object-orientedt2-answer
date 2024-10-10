@@ -1,4 +1,4 @@
-com.example.answer;
+package com.example.answer;
 
 public class Car {
   int speed; // 速度を表す属性

@@ -1,4 +1,4 @@
-com.example.answer;
+package com.example.answer;
 
 public interface Electrical {
   

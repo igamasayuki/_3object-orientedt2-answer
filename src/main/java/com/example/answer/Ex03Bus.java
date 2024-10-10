@@ -1,4 +1,4 @@
-com.example.answer;
+package com.example.answer;
 
 public class Ex03Bus extends Car {
   int price;
